@@ -1,17 +1,19 @@
-# React Data Grid: This is sariska co-browsing integration with Pomodoro App
+# Sariska Co-Browsing Integration with Pomodoro App
 
-This repository contains the source code for the application, for a detailed explanation please see the [accompanying blog post](https://blog.ag-grid.com/react-data-grid-use-hooks-to-build-a-pomodoro-app/) which explains the implementation.
+This repository contains various UI elements such as dropdowns, selects, checkboxes, and many other components to showcase the functionality of co-browsing with a completely virtual cursor.
 
-To see the application running, open [https://shuheb.github.io/ag-grid-pomodoro/](https://shuheb.github.io/ag-grid-pomodoro/) to view it in the browser.
-
-![alt text](https://s3.ap-south-1.amazonaws.com/sariska.io/Screenshot+2023-10-31+at+6.23.17+PM.png "AG Grid demo")
+![AG Grid demo](https://s3.ap-south-1.amazonaws.com/sariska.io/Screenshot+2023-10-31+at+6.23.17+PM.png)
 
 ## Installation
 
-In the project directory, install the dependencies:
-### `npm install`
+To get started, follow these steps:
 
-To run the app in development mode:
-### `npm run start`
+1. In the project directory, install the dependencies using the following command:
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+2. To run the app in development mode, use the following command:
+
+
+3. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
+
+Enjoy exploring the co-browsing integration with Pomodoro App and the included UI components!
