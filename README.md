@@ -1,4 +1,4 @@
-# React Data Grid: Use React Hooks to build a Pomodoro App
+# React Data Grid: This is sariska co-browsing integration with Pomodoro App
 
 This repository contains the source code for the application, for a detailed explanation please see the [accompanying blog post](https://blog.ag-grid.com/react-data-grid-use-hooks-to-build-a-pomodoro-app/) which explains the implementation.
 
