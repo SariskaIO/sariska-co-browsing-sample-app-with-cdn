@@ -20,7 +20,8 @@ Note: Currently, co-browsing starts automatically on page load. You can also ini
 
 ## Demo
 
- [Check out the demo ]([URL](https://cobrowse.sariska.io/))
+ [Check out the demo](https://cobrowse.sariska.io/)
+
 
 
 ## Sceenshots
