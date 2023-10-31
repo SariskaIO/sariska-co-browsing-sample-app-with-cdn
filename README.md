@@ -8,12 +8,12 @@ This repository contains various UI elements such as dropdowns, selects, checkbo
 
 To get started, follow these steps:
 
-1. In the project directory, install the dependencies using the following command:
+1. Open `App.js` and put your API key.
 
+2. In the project directory, install the dependencies using the following command:
 
-2. To run the app in development mode, use the following command:
+3. To run the app in development mode, use the following command:
 
-
-3. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
+4. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
 
 Enjoy exploring the co-browsing integration with Pomodoro App and the included UI components!
