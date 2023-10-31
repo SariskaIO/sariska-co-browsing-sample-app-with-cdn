@@ -25,7 +25,7 @@ Note: Currently, co-browsing starts automatically on page load. You can also ini
 
 ## Live Demo
 
- [Check out the demo video](https://cobrowse.sariska.io)
+ [Check out the live demo](https://cobrowse.sariska.io)
 
 
 ## Sceenshots
