@@ -18,6 +18,10 @@ To get started, follow these steps:
 Note: Currently, co-browsing starts automatically on page load. You can also initiate co-browsing by clicking a button. Use the 'startCobrowsing' and 'stopCoBrowsing' methods, as written in App.js.
 
 
+## Demo
+
+ [Check out the demo ]([URL](https://cobrowse.sariska.io/))
+
 
 ## Sceenshots
 
