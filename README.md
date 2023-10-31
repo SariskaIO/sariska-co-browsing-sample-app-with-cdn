@@ -1,4 +1,4 @@
-# Sariska Co-Browsing Integration with Pomodoro App
+# Sariska Co-Browsing Integration with Pomodoro App via NPM
 
 This repository contains various UI elements such as dropdowns, selects, checkboxes, and many other components to showcase the functionality of co-browsing with a completely virtual cursor.
 
