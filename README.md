@@ -14,6 +14,8 @@ To get started, follow these steps:
 
 3. To run the app in development mode, use the following command:
 
-4. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
+4. To view the app with co-browsing open http://localhost:3000 in two different browser tabs or two separate browsers and start co-browsing
+
+
 
 Enjoy exploring the co-browsing integration with Pomodoro App and the included UI components!
