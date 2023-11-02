@@ -15,7 +15,7 @@ To get started, follow these steps:
 4. To view the app with co-browsing open http://localhost:3000 in two different browser tabs or two separate browsers and start co-browsing
 
 
-Note: Currently, co-browsing starts automatically on page load. You can also initiate co-browsing by clicking a button. Use the 'startCobrowsing' and 'stopCoBrowsing' methods, as written in App.js. Also ,Check index.html for co-browsing CDN script URL and rest of the code in App.js
+Note: Currently, co-browsing starts automatically on page load. You can also initiate co-browsing by clicking a button. Use the 'startCobrowsing' and 'stopCoBrowsing' methods, as written in App.js. Also ,Check index.html for co-browsing CDN script URL and intialization you can find in App.js
 
 
 ## Demo Video
